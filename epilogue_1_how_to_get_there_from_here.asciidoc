@@ -64,7 +64,7 @@ When the company brought development in-house, it passed through several
 generations of developers' hands, and each wave of new developers added more
 complexity to the code's structure.
 
-At it's heart, the system was an ASP.Net Web Forms application, built with an
+At its heart, the system was an ASP.Net Web Forms application, built with an
 NHibernate ORM. Users would upload documents into workspaces, where they could
 invite other workspace members to review, comment, or modify their work.
 
